@@ -78,9 +78,11 @@ Before you begin, ensure you have met the following requirements:
 - **Delete**: Delete the user by ID.
 - **Clear**: Clear all text fields.
 
-## Screenshots
+## Project Preview
 
-Here’s a preview of the User Management System:
+Here's a preview of the User Management System:
+
+![User Management System GUI](./Preview.JPG)
 
 
 ## Future Enhancements
